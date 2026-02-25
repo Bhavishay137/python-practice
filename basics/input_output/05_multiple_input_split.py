@@ -1,0 +1,11 @@
+x = input("Enter values for x: ")
+y=input("Enter value for y:")
+print("Number of boys: ", x)
+print("Number of girls: ", y)
+ 
+x= int(input("Enter values for total students: "))
+y=int(input("Enter numebr of buys:"))
+z=int(input("Enter numebr of girls:"))
+print("Total number of students: ", x)
+print("Number of boys is : ", y)
+print("Number of girls is : ", z)
