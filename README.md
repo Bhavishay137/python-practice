@@ -19,11 +19,38 @@ Understanding variable declaration, reassignment, and printing multiple values.
 ### 03 – Data Types
 Exploration of Python’s built-in data types and usage of the type() function.
 
-### 04 – Basic Input Handling
-Introduction to taking user input from the console.
+### 04–06 – Input Handling
+- Basic input  
+- Multiple input  
+- Type casting  
 
-### 05 – Handling Multiple Inputs
-Understanding how to process multiple values provided by the user.
+### 07 – Type Casting
+Conversion between data types such as int, float, and string.
 
-### 06 – Type Casting
-Converting input values into specific data types such as float and understanding explicit type conversion.
+### 08 – String Functions
+Using built-in functions like len() for string operations.
+
+---
+
+### 09–14 – Operators
+
+- 09 – Arithmetic Operators  
+- 10 – Comparison Operators  
+- 11 – Logical Operators  
+- 12 – Bitwise Operators  
+- 13 – Assignment Operators  
+- 14 – Identity Operators  
+
+---
+
+### 15 – Conditional Statements
+
+Introduction to decision-making using if-else statements and understanding operator precedence.
+
+---
+
+## Purpose
+
+- Strengthen Python fundamentals  
+- Maintain clean and organized code structure  
+- Build a strong base for problem-solving and advanced programming  
