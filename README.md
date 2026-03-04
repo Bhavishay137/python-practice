@@ -57,39 +57,65 @@ Working with key-value pairs and creating dictionaries using different methods.
 ### 15–20 – Operators
 
 - 15 – Arithmetic Operators  
-  Performing mathematical operations like addition, subtraction, multiplication, and division.  
+  Performing mathematical operations like addition, subtraction, multiplication, division, modulus, and exponentiation.
 
 - 16 – Comparison Operators  
-  Comparing values using relational operators such as >, <, and ==.  
+  Comparing values using relational operators such as >, <, >=, <=, ==, and !=.
 
 - 17 – Logical Operators  
-  Combining conditions using and, or, and not.  
+  Combining conditions using logical operators such as and, or, and not.
 
 - 18 – Bitwise Operators  
-  Performing operations at the binary level such as AND, OR, and shifts.  
+  Performing operations at the binary level such as AND, OR, XOR, and bit shifting.
 
 - 19 – Assignment Operators  
-  Using shorthand operations like +=, -=, and *= for updating values.  
+  Using shorthand operations like +=, -=, *=, /=, and others to update variable values efficiently.
 
 - 20 – Identity Operators  
-  Checking whether variables refer to the same object using is and is not.  
+  Checking whether two variables refer to the same object using is and is not.
 
 ---
 
 ### 21 – If Statement
-Introduction to decision-making using a single condition to control program flow.
+Introduction to decision-making using a single condition to control the execution of a program.
 
 ### 22 – If-Else Statement
-Handling two possible outcomes based on whether a condition is true or false.
+Handling two possible outcomes based on whether a condition evaluates to true or false.
 
 ### 23 – If-Elif Ladder
-Using multiple conditions to categorize or evaluate values step by step.
+Using multiple conditions to categorize or evaluate values step by step when more than two outcomes are possible.
 
 ### 24 – Nested If Statement
-Placing one conditional statement inside another to handle layered decision-making.
+Placing one conditional statement inside another to perform layered decision-making based on multiple criteria.
 
 ### 25 – Match-Case Statement
-Using Python’s match-case structure (introduced in Python 3.10) as a cleaner alternative to multiple conditional checks.
+Using Python’s match-case structure (introduced in Python 3.10) as a cleaner alternative for handling multiple conditional checks.
+
+---
+
+### 26 – For Loop (Basic)
+Introduction to iteration using the for loop to repeatedly execute a block of code over a range of values.
+
+### 27 – For Loop with List Index
+Accessing list elements using index-based iteration and understanding how the range and len functions work together.
+
+### 28 – For Loop with Data Structures
+Iterating over different iterable objects such as lists, tuples, strings, dictionaries, and sets.
+
+### 29 – While Loop
+Using a condition-based loop that continues executing until a specified condition becomes false.
+
+### 30 – Nested For Loop Pattern
+Using nested loops to generate structured output patterns and understand loop hierarchy.
+
+### 31 – Continue Statement
+Skipping specific iterations in a loop when certain conditions are met.
+
+### 32 – Break Statement
+Stopping the execution of a loop immediately when a specific condition is satisfied.
+
+### 33 – Pass Statement
+Using a placeholder statement when a block of code is syntactically required but no action needs to be performed.
 
 ---
 
