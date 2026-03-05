@@ -119,8 +119,31 @@ Using a placeholder statement when a block of code is syntactically required but
 
 ---
 
+### 34 – Functions (Basic)
+Introduction to defining and calling functions to organize reusable blocks of code.
+
+### 35 – Default Arguments
+Understanding how functions can accept parameters with predefined default values.
+
+### 36 – Keyword Arguments
+Learning how arguments can be passed using parameter names rather than relying on positional order.
+
+### 37 – Variable Length Arguments
+Exploring flexible function definitions using *args and **kwargs to accept multiple arguments dynamically.
+
+### 38 – Mutable vs Immutable Arguments
+Understanding how Python treats different data types when passed into functions, and how mutable objects like lists can be modified inside functions while immutable objects like integers remain unchanged.
+
+### 39 – Recursive Functions
+Introduction to recursion where a function calls itself to solve a problem step-by-step until a base condition is reached.
+
+### 40 – Recursive Factorial Program
+Implementation of recursion using a factorial calculation, demonstrating how problems can be broken down into smaller repeated function calls.
+
+---
+
 ## Purpose
 
 - Strengthen Python fundamentals  
 - Maintain clean and organized code structure  
-- Build a strong base for problem-solving and advanced programming  
+- Build a strong base for problem-solving and advanced programming
