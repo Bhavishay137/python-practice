@@ -142,6 +142,38 @@ Implementation of recursion using a factorial calculation, demonstrating how pro
 
 ---
 
+### 41 – Multiline Strings
+Understanding how Python supports multiline text using triple quotes (`'''` or `"""`), allowing large blocks of text to be written while preserving formatting.
+
+### 42 – String Indexing
+Learning how characters in a string can be accessed using index positions, with Python using zero-based indexing.
+
+### 43 – Negative Indexing
+Exploring how Python allows accessing characters from the end of a string using negative indices such as `-1`, `-2`, etc.
+
+### 44 – String Slicing
+Extracting portions of a string using slicing syntax `[start:end]`, and exploring powerful techniques like reversing a string using `[::-1]`.
+
+### 45 – String Iteration
+Using loops to iterate through each character of a string, demonstrating that strings behave as iterable sequences.
+
+### 46 – String Immutability
+Understanding that Python strings cannot be modified directly and must be recreated when changes are needed.
+
+### 47 – Deleting a String
+Learning how the `del` keyword removes a variable from memory and how accessing it afterward results in a `NameError`.
+
+### 48 – Updating and Replacing Strings
+Practicing how to update strings using concatenation and built-in methods such as `replace()`.
+
+### 49 – String Update with Replacement
+Applying string replacement and concatenation techniques to modify parts of text while maintaining immutability.
+
+### 50 – String Case Conversion
+Using built-in string methods like `upper()` and `lower()` to convert text into uppercase or lowercase formats.
+
+---
+
 ## Purpose
 
 - Strengthen Python fundamentals  
