@@ -174,6 +174,25 @@ Using built-in string methods like `upper()` and `lower()` to convert text into 
 
 ---
 
+### 51 – String Strip and Replace Methods
+Understanding how to clean and modify strings using built-in methods such as `strip()` to remove leading and trailing whitespace, and `replace()` to substitute one part of a string with another.
+
+### 52 – Formatted Strings (f-Strings)
+Learning how to use Python’s formatted string literals (f-strings) to embed variables directly inside strings using `{}` placeholders, making output statements cleaner and more readable.
+
+### 53 – String Formatting with `format()` Method
+Exploring the `.format()` method for inserting values into strings using placeholder braces `{}` and replacing them with provided arguments in a structured way.
+
+---
+
+### 54 – List Data Types
+Understanding that Python lists can store multiple elements and can hold different types of data including integers, strings, floating-point numbers, and boolean values within the same list.
+
+### 55 – List Constructor
+Learning how to create lists using the `list()` constructor and how iterable objects such as tuples and strings can be converted into lists.
+
+---
+
 ## Purpose
 
 - Strengthen Python fundamentals  
