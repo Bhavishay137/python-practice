@@ -5,5 +5,5 @@ a = list((1, 2, 3, 'apple', 4.5))
 print(a)
 
 # Creating a list from a string
-b = list("GFG")
+b = list("Python")
 print(b)
