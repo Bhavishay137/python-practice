@@ -216,6 +216,56 @@ Understanding how lists can contain other lists, forming nested data structures 
 ### 62 – List Comprehension
 Exploring list comprehension as a concise and efficient way to create lists in Python by combining iteration and expressions into a single line of code. This method improves readability and performance when generating lists based on existing sequences.
 
+### 63 – Tuple Creation
+Understanding different ways to create tuples in Python, including empty tuples, tuples with string values, converting lists into tuples, and using the `tuple()` constructor with a string.
+
+### 64 – Tuple Operations
+Understanding how to create tuples with different data types, work with nested tuples, and repeat tuple elements using the multiplication operator.
+
+### 65 – Dictionary Creation
+Creating a dictionary using key-value pairs and displaying the stored data using the `print()` function.
+
+### 66 – Dictionary Creation Methods
+Understanding different ways to create dictionaries in Python using key-value pairs with `{}` and the `dict()` constructor.
+
+### 67 – Dictionary Adding and Updating
+Understanding how to add new key-value pairs to a dictionary and update the value of an existing key using key assignment.
+
+### 68 – Dictionary Iteration
+Learning how to iterate through a dictionary using a `for` loop to access and process its keys.
+
+### 69 – Nested Dictionaries
+Understanding how dictionaries can contain other dictionaries and how to access nested values using multiple keys.
+
+### 70 – Dictionary Iteration with items()
+Learning how to use the `items()` method with a `for` loop to access and process both dictionary keys and values.
+
+### 71 – Set Creation
+Introduction to creating a set in Python using curly braces `{}` and storing multiple unique elements.
+
+### 72 – Set Constructor
+Understanding how to create sets using the `set()` constructor with different iterable objects such as strings, lists, tuples, and dictionaries.
+
+### 73 – Set Indexing and Error Handling
+Understanding that sets are unordered collections without index-based access, and handling the `TypeError` raised when attempting to access a set element using an index.
+
+### 74 – Set Iteration and Membership
+Understanding how to iterate through set elements using a `for` loop and check whether a specific element exists in a set using the `in` operator.
+
+### 75 – Set Remove and Discard Methods
+Understanding how to remove elements from sets using the `remove()` and `discard()` methods, including handling the `KeyError` raised by `remove()` when the specified element does not exist.
+
+### 76 – Frozenset
+Understanding how to create immutable sets using the `frozenset()` constructor and how to convert an existing set into a frozenset.
+
+### 77 – Set Conversion
+Understanding how to convert lists, strings, and dictionaries into sets using the `set()` constructor and how duplicate elements are automatically removed.
+
+### 78 – Tuple Creation
+Understanding different ways to create tuples in Python, including empty tuples, tuples with string values, converting lists into tuples, and using the `tuple()` constructor with a string.
+
+
+
 ## Purpose
 
 - Strengthen Python fundamentals  
